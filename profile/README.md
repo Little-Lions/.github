@@ -8,7 +8,7 @@ This Github organization contains the repository for [Digital Lions](https://git
 
 ## Contribute
 
-Are you a software engineer? Digital Lions is a classic web application consisting of a frontend (Next.js, Typescript, Javascript) with a backend and a database (Python, FastAPI, Postgres). [littlelionschildcoaching.com](https://littlelionschildcoaching.com) is a Wordpress page. Do you possess any of these skills and feel like contributing? Reach out to us! 
+Are you a software engineer? Digital Lions is a classic web application consisting of a frontend (Next.js, Typescript, Javascript) with a backend (Python, FastAPI) and a database (Postgres). The public webpage [littlelionschildcoaching.com](https://littlelionschildcoaching.com) is a Wordpress page. Do you possess any of these skills and feel like contributing? Reach out to us! 
 
 ## Donate
 
